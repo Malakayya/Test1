@@ -1,0 +1,2 @@
+create file6.txt 
+line1
